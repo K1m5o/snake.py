@@ -5,10 +5,6 @@
 
 
 
-
-
-
-
 import pygame
 import randint 
 
