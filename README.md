@@ -2,14 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
 import pygame
 import randint 
 
