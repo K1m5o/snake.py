@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 import pygame
 import randint 
 
