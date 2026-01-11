@@ -1,4 +1,8 @@
-import pygame
+
+
+
+
+port pygame
 import randint 
 
 pygame.init()
