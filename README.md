@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 port pygame
 import randint 
 
